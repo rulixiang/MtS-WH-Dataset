@@ -1,5 +1,5 @@
 ## 汉阳（Hanyang）场景变化检测数据集 （[English](https://github.com/rulixiang/HanyangDataset/blob/master/README.md)）
-:smile: 链接：[谷歌硬盘]() || [百度云盘](https://pan.baidu.com/s/1mSAqD2GbOsgdjKqspydkTg). 提取码: 3t4i
+:smile: 链接：[谷歌硬盘](https://drive.google.com/file/d/1GuySYAK8GJVa2AF80x2oanQx0DlsjTuX/view) || [百度云盘](https://pan.baidu.com/s/1mSAqD2GbOsgdjKqspydkTg). 提取码: 3t4i
 
 ### 数据集描述
 本数据集主要包括两张由IKONOS传感器获得的，大小为7200x6000的大尺寸VHR影像。覆盖范围为中国武汉市汉阳区。影像分别获取于2002年2月和2009年6月，分辨率为1m，包含4个波段（蓝，绿，红和近红外波段）。每个时相训练集包括190张影像，测试集包括1920张影像。训练集和测试集的场景图片共划分为以下几个类别：
