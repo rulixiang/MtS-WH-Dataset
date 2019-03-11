@@ -5,10 +5,15 @@ This dataset was acquired by the IKONOS satellite sensor, and has a spatial reso
 
 ./hanyang_data
 |
+
 │  hanyang2002.jpg
+
 │  hanyang2009.jpg
+
 │  README.md
+
 │
+
 ├─test
 │      hanyang2002
 │      hanyang2002.hdr
@@ -36,4 +41,5 @@ This dataset was acquired by the IKONOS satellite sensor, and has a spatial reso
 ## Citation
 
 [1] Wu, Chen, Lefei Zhang, and Liangpei Zhang. "A scene change detection framework for multi-temporal very high resolution remote sensing images." Signal Processing 124 (2016): 184-197.
+
 [2] Wu, Chen, Liangpei Zhang, and Bo Du. "Kernel slow feature analysis for scene change detection." IEEE Transactions on Geoscience and Remote Sensing 55.4 (2017): 2367-2384.
