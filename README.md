@@ -11,7 +11,7 @@ For each large-size image, we generated 190 scene images as training set and 192
 7-vegetation region    8-industrial region 
 0-undefined (Not Used)
 ```
-Where 0-undefined is a scene patch that is difficult to distinguish the land-use classes and does not participate in the accuracy test.
+0-undefined represents scene patches that are difficult to distinguish the land-use classes and don't participate in the accuracy evaluation.
 ### Generation of Training Set
 We generate training samples by cropping images from typical regions. Training set of each time includes 190 scene images with size of 150x150. It's noticed that training samples of different time do not correspond to the same position.
 
