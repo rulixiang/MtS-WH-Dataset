@@ -56,4 +56,4 @@ Please cite the abovementioned articles should you used this dataset in your res
 ### Copyright
 Copyright &copy; 2019 [SIGMA Lab](http://sigma.whu.edu.cn/) (Sensing Intelligence, Geoscience and MAchine learning lab, Wuhan University, China).   
 
-The MtS-WH dataset is only aothurized to be used in scientific research and academic papers.If you have any other questions about this dataset in your research, please contact us: chen.wu@whu.edu.cn
+The MtS-WH dataset is only aothurized to be used in scientific research and academic papers. If you have any other questions about this dataset in your research, please contact us: chen.wu@whu.edu.cn
