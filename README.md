@@ -1,5 +1,5 @@
 ## Multi-temporal Scene WuHan (MtS-WH) Dataset([中文](https://github.com/rulixiang/HanyangDataset/blob/master/README_CHN.md))
-:smile: Avaliable: [Google Drive](https://drive.google.com/open?id=1gIW35zkRA-s0nA7mx8KHiXZDSln9Wxy0) || [Our Group Website](http://sigma.whu.edu.cn/resource.php).
+Avaliable: [Google Drive](https://drive.google.com/open?id=1gIW35zkRA-s0nA7mx8KHiXZDSln9Wxy0) || [Our Group Website](http://sigma.whu.edu.cn/resource.php).
 ### Description of the dataset
 The Wuhan multi-temperature scene (MtS-WH) data set is mainly used for theoretical research and verification of scene change detection methods. Scene change detection is  detecting and analyzing the changes of land-use in a certain area at the scene semantic level.  
 This dataset consists of two large-size VHR images, which have a size of 7200x6000 and are respectively acquired by IKONOS sensors in Feb, 2002 and Jun, 2009. The images cover the Hanyang District, Wuhan City, China and contain 4 spectral bands (Blue, Green, Red and Near-Infrared). The spatial resolution of the images is 1m after fusion by the Gram–Schmidt algorithm.  
@@ -48,10 +48,29 @@ We obtained the scenes from the large image by a non-over lapping grid with a ce
             ...  
 ```
 ### Citation
-This dataset was firstly used in the following works on scene change detection:  
-[1] Wu, Chen, Lefei Zhang, and Liangpei Zhang. "[A scene change detection framework for multi-temporal very high resolution remote sensing images](https://www.sciencedirect.com/science/article/pii/S0165168415003229)." Signal Processing 124 (2016): 184-197.  
-[2] Wu, Chen, Liangpei Zhang, and Bo Du. "[Kernel slow feature analysis for scene change detection](https://ieeexplore.ieee.org/document/7817860)." IEEE Transactions on Geoscience and Remote Sensing 55.4 (2017): 2367-2384.  
-Please cite the abovementioned articles should you used this dataset in your research.
+Please consider citing the abovementioned articles if you used this dataset in your research.
+```
+@article{wu2016scene,
+  title={A scene change detection framework for multi-temporal very high resolution remote sensing images},
+  author={Wu, Chen and Zhang, Lefei and Zhang, Liangpei},
+  journal={Signal Processing},
+  volume={124},
+  pages={184--197},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{wu2017kernel,
+  title={Kernel slow feature analysis for scene change detection},
+  author={Wu, Chen and Zhang, Liangpei and Du, Bo},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={55},
+  pages={2367--2384},
+  year={2017},
+  publisher={IEEE}
+}
+```
+
 
 ### Copyright
 Copyright &copy; 2019 [SIGMA Lab](http://sigma.whu.edu.cn/) (Sensing Intelligence, Geoscience and MAchine learning lab, Wuhan University, China).   
