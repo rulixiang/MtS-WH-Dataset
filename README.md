@@ -48,7 +48,7 @@ We obtained the scenes from the large image by a non-over lapping grid with a ce
             ...  
 ```
 ### Citation
-This dataset was firstly used in the following work about scene change detection:  
+This dataset was firstly used in the following works on scene change detection:  
 [1] Wu, Chen, Lefei Zhang, and Liangpei Zhang. "[A scene change detection framework for multi-temporal very high resolution remote sensing images](https://www.sciencedirect.com/science/article/pii/S0165168415003229)." Signal Processing 124 (2016): 184-197.  
 [2] Wu, Chen, Liangpei Zhang, and Bo Du. "[Kernel slow feature analysis for scene change detection](https://ieeexplore.ieee.org/document/7817860)." IEEE Transactions on Geoscience and Remote Sensing 55.4 (2017): 2367-2384.  
 Please cite the abovementioned articles should you used this dataset in your research.
